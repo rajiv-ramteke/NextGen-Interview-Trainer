@@ -32,5 +32,17 @@ The tool also helps improve responses to commonly asked questions. Moreover, the
 - Requires a stable internet connection for AI-based features
 - Limited support for multiple languages and regional accents
 ## Future Scope
+- Integration of advanced AI for better personalization
+- Multi-language support
+- Mobile application development
+- VR/AR-based immersive interview simulations
+- Real-time performance analytics
 ## Conculusion  
+An AI Powered Interview Preparation Platform that is an all-in-one solution for interview preparation for interview readiness improvement, that comprises of personalized question generation, providing instant feedback, and a simulation based realistic practice environment. This also helps in enhancing the confidence, can help to improve on the communication skills and also on the problem-solving skills of the user. This kind of platform will definitely be a very strong futuristic option for harnessing the power of AI for reaching new career highs.
+
 ## References
+[1] Woberry, "AI Interview Coach," https://www.woberry.com/interview-practice  
+[2] Wordkraft AI, "Interview Preparation Guide," https://wordkraft.ai  
+[3] InterviewPal, "AI Interview Prep," https://www.interviewpal.com  
+[4] Risely AI, "Interview Simulation," https://www.risely.ai  
+[5] IJRASET & IJSRSET Papers on AI Mock Interview Systems  
