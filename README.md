@@ -1,4 +1,4 @@
-# NextGen-Interview-Trainer
+# AI-NextGen-Interview-Trainer
 Author(s): Rajiv G. Ramteke  
 Affiliation: Suryodaya College of Engineering and Technology, Nagpur  
 Date: March 2026
