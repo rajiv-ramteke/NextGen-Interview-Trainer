@@ -7,8 +7,8 @@ This project presents an AI Powered Interview Preparation Platform designed to h
 The platform uses AI to analyze answers and provide feedback, helping users identify their strengths and weaknesses. It improves communication skills, builds confidence, and offers a realistic interview environment. The system is built using modern technologies such as React for frontend, Node.js for backend, and MongoDB for data storage, with OpenAI API integration for intelligent question generation.
 The results show that the platform successfully enhances interview preparation by offering personalized learning and real-time feedback. Overall, it is an effective tool for students to improve their interview performance and readiness for real-world job opportunities.
 ## Introduction
-Interview preparation is crucial to performing well in job interviews. This is especially true in today’s competitive work environment. Often, students are scared of attending interviews as they do not have any knowledge of the questions that are asked.
-In this AI Powered Interview Preparation Platform project, an online platform that can be used by users to practice will be developed. This System will generate questions based on roles. The system will evaluate performance and provide feedback to boost confidence. This is a necessary exercise if one wants to land their dream job.
+In the present job market, interviews are tough competition and it’s extremely important that students must be well-prepared with the type of questions being asked as well as have the right guidance. However, many looks for tips and advise to prepare for interviews as they lack knowledge on the kind of questions being asked as well as don’t have proper guidance.
+The main objective of the AI Powered Interview Preparation system is to make user learn and practice the types of questions that are generally asked for a specific job role of any company. The system should also evaluate the answers given by the users and provide feedback to improve the weak areas. This system also helps in increasing confidence and making users interactive while answering.
 ## Literature review
 ## Methodology
 ## implementation
