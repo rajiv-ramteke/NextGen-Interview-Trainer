@@ -1,5 +1,7 @@
 # NextGen-Interview-Trainer
-# Project Title
+Author(s): Rajiv G. Ramteke
+Affiliation: Suryodaya College of Engineering and Technology, Nagpur
+Date: March 2026
 ## Abstract
 ## introduction
 ## Literature review
